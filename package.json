@@ -1,0 +1,33 @@
+{
+  "name": "@vlodia/sqlite3",
+  "version": "0.0.1-alpha",
+  "description": "@vlodia/sqlite3 is a Database management module that provides an easy-to-use interface for interacting with SQLite3 and MySQL databases. It includes all essential CRUD operations, table management, and connection handling",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takachidot/vlodia-sqlite3.git"
+  },
+  "keywords": [
+    "Yahya",
+    "Sqlite3",
+    "Vlodia",
+    "Database",
+    "MySQL"
+  ],
+  "author": {
+    "name": "Yahya",
+    "email": "yahyabey2401@proton.me"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/takachidot/vlodia-sqlite3/issues"
+  },
+  "homepage": "https://github.com/takachidot/vlodia-sqlite3#readme",
+  "dependencies": {
+    "mysql2": "^3.11.0",
+    "sqlite": "^5.1.1"
+  }
+}
